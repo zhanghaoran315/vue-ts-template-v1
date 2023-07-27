@@ -5,7 +5,10 @@
     "vitest.config.*",
     "cypress.config.*",
     "nightwatch.conf.*",
-    "playwright.config.*"
+    "playwright.config.*",
+    "auto-imports.d.ts",
+    "components.d.ts",
+    "vitePlugin/*"
   ],
   "compilerOptions": {
     "composite": true,
