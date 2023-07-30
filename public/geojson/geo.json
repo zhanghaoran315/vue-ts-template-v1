@@ -1,0 +1,612 @@
+{
+  "name": "陕西省",
+  "qxdm": "610000",
+  "url": "geojson/610000.json",
+  "children": [
+    {
+      "name": "安康市",
+      "qxdm": "610900",
+      "url": "geojson/610900.json",
+      "children": [
+        {
+          "name": "石泉县",
+          "qxdm": "610922",
+          "url": "geojson/610922.json"
+        },
+        {
+          "name": "宁陕县",
+          "qxdm": "610923",
+          "url": "geojson/610923.json"
+        },
+        {
+          "name": "汉阴县",
+          "qxdm": "610921",
+          "url": "geojson/610921.json"
+        },
+        {
+          "name": "旬阳县",
+          "qxdm": "610928",
+          "url": "geojson/610928.json"
+        },
+        {
+          "name": "白河县",
+          "qxdm": "610929",
+          "url": "geojson/610929.json"
+        },
+        {
+          "name": "平利县",
+          "qxdm": "610926",
+          "url": "geojson/610926.json"
+        },
+        {
+          "name": "镇坪县",
+          "qxdm": "610927",
+          "url": "geojson/610927.json"
+        },
+        {
+          "name": "汉滨区",
+          "qxdm": "610902",
+          "url": "geojson/610902.json"
+        },
+        {
+          "name": "紫阳县",
+          "qxdm": "610924",
+          "url": "geojson/610924.json"
+        },
+        {
+          "name": "岚皋县",
+          "qxdm": "610925",
+          "url": "geojson/610925.json"
+        }
+      ]
+    },
+    {
+      "name": "汉中市",
+      "qxdm": "610700",
+      "url": "geojson/610700.json",
+      "children": [
+        {
+          "name": "汉台区",
+          "qxdm": "610702",
+          "url": "geojson/610702.json"
+        },
+        {
+          "name": "西乡县",
+          "qxdm": "610724",
+          "url": "geojson/610724.json"
+        },
+        {
+          "name": "南郑区",
+          "qxdm": "610703",
+          "url": "geojson/610703.json"
+        },
+        {
+          "name": "勉县",
+          "qxdm": "610725",
+          "url": "geojson/610725.json"
+        },
+        {
+          "name": "城固县",
+          "qxdm": "610722",
+          "url": "geojson/610722.json"
+        },
+        {
+          "name": "洋县",
+          "qxdm": "610723",
+          "url": "geojson/610723.json"
+        },
+        {
+          "name": "佛坪县",
+          "qxdm": "610730",
+          "url": "geojson/610730.json"
+        },
+        {
+          "name": "镇巴县",
+          "qxdm": "610728",
+          "url": "geojson/610728.json"
+        },
+        {
+          "name": "留坝县",
+          "qxdm": "610729",
+          "url": "geojson/610729.json"
+        },
+        {
+          "name": "宁强县",
+          "qxdm": "610726",
+          "url": "geojson/610726.json"
+        },
+        {
+          "name": "略阳县",
+          "qxdm": "610727",
+          "url": "geojson/610727.json"
+        }
+      ]
+    },
+    {
+      "name": "榆林市",
+      "qxdm": "610800",
+      "url": "geojson/610800.json",
+      "children": [
+        {
+          "name": "榆阳区",
+          "qxdm": "610802",
+          "url": "geojson/610802.json"
+        },
+        {
+          "name": "靖边县",
+          "qxdm": "610824",
+          "url": "geojson/610824.json"
+        },
+        {
+          "name": "府谷县",
+          "qxdm": "610822",
+          "url": "geojson/610822.json"
+        },
+        {
+          "name": "清涧县",
+          "qxdm": "610830",
+          "url": "geojson/610830.json"
+        },
+        {
+          "name": "子洲县",
+          "qxdm": "610831",
+          "url": "geojson/610831.json"
+        },
+        {
+          "name": "神木市",
+          "qxdm": "610881",
+          "url": "geojson/610881.json"
+        },
+        {
+          "name": "吴堡县",
+          "qxdm": "610829",
+          "url": "geojson/610829.json"
+        },
+        {
+          "name": "米脂县",
+          "qxdm": "610827",
+          "url": "geojson/610827.json"
+        },
+        {
+          "name": "佳县",
+          "qxdm": "610828",
+          "url": "geojson/610828.json"
+        },
+        {
+          "name": "横山区",
+          "qxdm": "610803",
+          "url": "geojson/610803.json"
+        },
+        {
+          "name": "定边县",
+          "qxdm": "610825",
+          "url": "geojson/610825.json"
+        },
+        {
+          "name": "绥德县",
+          "qxdm": "610826",
+          "url": "geojson/610826.json"
+        }
+      ]
+    },
+    {
+      "name": "渭南市",
+      "qxdm": "610500",
+      "url": "geojson/610500.json",
+      "children": [
+        {
+          "name": "蒲城县",
+          "qxdm": "610526",
+          "url": "geojson/610526.json"
+        },
+        {
+          "name": "白水县",
+          "qxdm": "610527",
+          "url": "geojson/610527.json"
+        },
+        {
+          "name": "临渭区",
+          "qxdm": "610502",
+          "url": "geojson/610502.json"
+        },
+        {
+          "name": "合阳县",
+          "qxdm": "610524",
+          "url": "geojson/610524.json"
+        },
+        {
+          "name": "华州区",
+          "qxdm": "610503",
+          "url": "geojson/610503.json"
+        },
+        {
+          "name": "澄城县",
+          "qxdm": "610525",
+          "url": "geojson/610525.json"
+        },
+        {
+          "name": "潼关县",
+          "qxdm": "610522",
+          "url": "geojson/610522.json"
+        },
+        {
+          "name": "大荔县",
+          "qxdm": "610523",
+          "url": "geojson/610523.json"
+        },
+        {
+          "name": "华阴市",
+          "qxdm": "610582",
+          "url": "geojson/610582.json"
+        },
+        {
+          "name": "韩城市",
+          "qxdm": "610581",
+          "url": "geojson/610581.json"
+        },
+        {
+          "name": "富平县",
+          "qxdm": "610528",
+          "url": "geojson/610528.json"
+        }
+      ]
+    },
+    {
+      "name": "延安市",
+      "qxdm": "610600",
+      "url": "geojson/610600.json",
+      "children": [
+        {
+          "name": "安塞区",
+          "qxdm": "610603",
+          "url": "geojson/610603.json"
+        },
+        {
+          "name": "志丹县",
+          "qxdm": "610625",
+          "url": "geojson/610625.json"
+        },
+        {
+          "name": "吴起县",
+          "qxdm": "610626",
+          "url": "geojson/610626.json"
+        },
+        {
+          "name": "宝塔区",
+          "qxdm": "610602",
+          "url": "geojson/610602.json"
+        },
+        {
+          "name": "黄陵县",
+          "qxdm": "610632",
+          "url": "geojson/610632.json"
+        },
+        {
+          "name": "延长县",
+          "qxdm": "610621",
+          "url": "geojson/610621.json"
+        },
+        {
+          "name": "延川县",
+          "qxdm": "610622",
+          "url": "geojson/610622.json"
+        },
+        {
+          "name": "宜川县",
+          "qxdm": "610630",
+          "url": "geojson/610630.json"
+        },
+        {
+          "name": "黄龙县",
+          "qxdm": "610631",
+          "url": "geojson/610631.json"
+        },
+        {
+          "name": "洛川县",
+          "qxdm": "610629",
+          "url": "geojson/610629.json"
+        },
+        {
+          "name": "甘泉县",
+          "qxdm": "610627",
+          "url": "geojson/610627.json"
+        },
+        {
+          "name": "富县",
+          "qxdm": "610628",
+          "url": "geojson/610628.json"
+        },
+        {
+          "name": "子长市",
+          "qxdm": "610681",
+          "url": "geojson/610681.json"
+        }
+      ]
+    },
+    {
+      "name": "宝鸡市",
+      "qxdm": "610300",
+      "url": "geojson/610300.json",
+      "children": [
+        {
+          "name": "千阳县",
+          "qxdm": "610328",
+          "url": "geojson/610328.json"
+        },
+        {
+          "name": "麟游县",
+          "qxdm": "610329",
+          "url": "geojson/610329.json"
+        },
+        {
+          "name": "陈仓区",
+          "qxdm": "610304",
+          "url": "geojson/610304.json"
+        },
+        {
+          "name": "眉县",
+          "qxdm": "610326",
+          "url": "geojson/610326.json"
+        },
+        {
+          "name": "陇县",
+          "qxdm": "610327",
+          "url": "geojson/610327.json"
+        },
+        {
+          "name": "渭滨区",
+          "qxdm": "610302",
+          "url": "geojson/610302.json"
+        },
+        {
+          "name": "扶风县",
+          "qxdm": "610324",
+          "url": "geojson/610324.json"
+        },
+        {
+          "name": "金台区",
+          "qxdm": "610303",
+          "url": "geojson/610303.json"
+        },
+        {
+          "name": "凤翔区",
+          "qxdm": "610322",
+          "url": "geojson/610322.json"
+        },
+        {
+          "name": "岐山县",
+          "qxdm": "610323",
+          "url": "geojson/610323.json"
+        },
+        {
+          "name": "太白县",
+          "qxdm": "610331",
+          "url": "geojson/610331.json"
+        },
+        {
+          "name": "凤县",
+          "qxdm": "610330",
+          "url": "geojson/610330.json"
+        }
+      ]
+    },
+    {
+      "name": "咸阳市",
+      "qxdm": "610400",
+      "url": "geojson/610400.json",
+      "children": [
+        {
+          "name": "长武县",
+          "qxdm": "610428",
+          "url": "geojson/610428.json"
+        },
+        {
+          "name": "杨陵区",
+          "qxdm": "610403",
+          "url": "geojson/610403.json"
+        },
+        {
+          "name": "礼泉县",
+          "qxdm": "610425",
+          "url": "geojson/610425.json"
+        },
+        {
+          "name": "渭城区",
+          "qxdm": "610404",
+          "url": "geojson/610404.json"
+        },
+        {
+          "name": "永寿县",
+          "qxdm": "610426",
+          "url": "geojson/610426.json"
+        },
+        {
+          "name": "泾阳县",
+          "qxdm": "610423",
+          "url": "geojson/610423.json"
+        },
+        {
+          "name": "秦都区",
+          "qxdm": "610402",
+          "url": "geojson/610402.json"
+        },
+        {
+          "name": "乾县",
+          "qxdm": "610424",
+          "url": "geojson/610424.json"
+        },
+        {
+          "name": "三原县",
+          "qxdm": "610422",
+          "url": "geojson/610422.json"
+        },
+        {
+          "name": "旬邑县",
+          "qxdm": "610429",
+          "url": "geojson/610429.json"
+        },
+        {
+          "name": "淳化县",
+          "qxdm": "610430",
+          "url": "geojson/610430.json"
+        },
+        {
+          "name": "武功县",
+          "qxdm": "610431",
+          "url": "geojson/610431.json"
+        },
+        {
+          "name": "兴平市",
+          "qxdm": "610481",
+          "url": "geojson/610481.json"
+        },
+        {
+          "name": "彬州市",
+          "qxdm": "610482",
+          "url": "geojson/610482.json"
+        }
+      ]
+    },
+    {
+      "name": "西安市",
+      "qxdm": "610100",
+      "url": "geojson/610100.json",
+      "children": [
+        {
+          "name": "高陵区",
+          "qxdm": "610117",
+          "url": "geojson/610117.json"
+        },
+        {
+          "name": "鄠邑区",
+          "qxdm": "610118",
+          "url": "geojson/610118.json"
+        },
+        {
+          "name": "临潼区",
+          "qxdm": "610115",
+          "url": "geojson/610115.json"
+        },
+        {
+          "name": "莲湖区",
+          "qxdm": "610104",
+          "url": "geojson/610104.json"
+        },
+        {
+          "name": "长安区",
+          "qxdm": "610116",
+          "url": "geojson/610116.json"
+        },
+        {
+          "name": "雁塔区",
+          "qxdm": "610113",
+          "url": "geojson/610113.json"
+        },
+        {
+          "name": "新城区",
+          "qxdm": "610102",
+          "url": "geojson/610102.json"
+        },
+        {
+          "name": "周至县",
+          "qxdm": "610124",
+          "url": "geojson/610124.json"
+        },
+        {
+          "name": "阎良区",
+          "qxdm": "610114",
+          "url": "geojson/610114.json"
+        },
+        {
+          "name": "碑林区",
+          "qxdm": "610103",
+          "url": "geojson/610103.json"
+        },
+        {
+          "name": "灞桥区",
+          "qxdm": "610111",
+          "url": "geojson/610111.json"
+        },
+        {
+          "name": "蓝田县",
+          "qxdm": "610122",
+          "url": "geojson/610122.json"
+        },
+        {
+          "name": "未央区",
+          "qxdm": "610112",
+          "url": "geojson/610112.json"
+        }
+      ]
+    },
+    {
+      "name": "铜川市",
+      "qxdm": "610200",
+      "url": "geojson/610200.json",
+      "children": [
+        {
+          "name": "印台区",
+          "qxdm": "610203",
+          "url": "geojson/610203.json"
+        },
+        {
+          "name": "耀州区",
+          "qxdm": "610204",
+          "url": "geojson/610204.json"
+        },
+        {
+          "name": "王益区",
+          "qxdm": "610202",
+          "url": "geojson/610202.json"
+        },
+        {
+          "name": "宜君县",
+          "qxdm": "610222",
+          "url": "geojson/610222.json"
+        }
+      ]
+    },
+    {
+      "name": "商洛市",
+      "qxdm": "611000",
+      "url": "geojson/611000.json",
+      "children": [
+        {
+          "name": "柞水县",
+          "qxdm": "611026",
+          "url": "geojson/611026.json"
+        },
+        {
+          "name": "镇安县",
+          "qxdm": "611025",
+          "url": "geojson/611025.json"
+        },
+        {
+          "name": "商州区",
+          "qxdm": "611002",
+          "url": "geojson/611002.json"
+        },
+        {
+          "name": "山阳县",
+          "qxdm": "611024",
+          "url": "geojson/611024.json"
+        },
+        {
+          "name": "商南县",
+          "qxdm": "611023",
+          "url": "geojson/611023.json"
+        },
+        {
+          "name": "丹凤县",
+          "qxdm": "611022",
+          "url": "geojson/611022.json"
+        },
+        {
+          "name": "洛南县",
+          "qxdm": "611021",
+          "url": "geojson/611021.json"
+        }
+      ]
+    }
+  ]
+}

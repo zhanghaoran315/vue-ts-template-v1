@@ -1,5 +1,7 @@
 import { crypto } from '@/utils/crypto'
 
+export * from './directives'
+
 
 let CONFIG = window.CONFIG
 

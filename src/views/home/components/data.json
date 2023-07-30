@@ -1,0 +1,1221 @@
+{
+  "success": true,
+  "message": null,
+  "data": {
+    "610100": [
+      {
+        "qydm": "610102",
+        "districtName": "新城区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610103",
+        "districtName": "碑林区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610104",
+        "districtName": "莲湖区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610111",
+        "districtName": "灞桥区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610112",
+        "districtName": "未央区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610113",
+        "districtName": "雁塔区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610114",
+        "districtName": "阎良区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610115",
+        "districtName": "临潼区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610116",
+        "districtName": "长安区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610122",
+        "districtName": "蓝田县",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610124",
+        "districtName": "周至县",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610125",
+        "districtName": "鄠邑区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610126",
+        "districtName": "高陵区",
+        "cityName": "西安市",
+        "cityCode": "610100",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610200": [
+      {
+        "qydm": "610202",
+        "districtName": "王益区",
+        "cityName": "铜川市",
+        "cityCode": "610200",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610203",
+        "districtName": "印台区",
+        "cityName": "铜川市",
+        "cityCode": "610200",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610204",
+        "districtName": "耀州区",
+        "cityName": "铜川市",
+        "cityCode": "610200",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610222",
+        "districtName": "宜君县",
+        "cityName": "铜川市",
+        "cityCode": "610200",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610300": [
+      {
+        "qydm": "610302",
+        "districtName": "渭滨区",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610303",
+        "districtName": "金台区",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610304",
+        "districtName": "陈仓区",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610322",
+        "districtName": "凤翔县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610323",
+        "districtName": "岐山县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610324",
+        "districtName": "扶风县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610326",
+        "districtName": "眉县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610327",
+        "districtName": "陇县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610328",
+        "districtName": "千阳县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610329",
+        "districtName": "麟游县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610330",
+        "districtName": "凤县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610331",
+        "districtName": "太白县",
+        "cityName": "宝鸡市",
+        "cityCode": "610300",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610400": [
+      {
+        "qydm": "610402",
+        "districtName": "秦都区",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610404",
+        "districtName": "渭城区",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610422",
+        "districtName": "三原县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610423",
+        "districtName": "泾阳县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610424",
+        "districtName": "乾县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610425",
+        "districtName": "礼泉县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610426",
+        "districtName": "永寿县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610427",
+        "districtName": "彬州市",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610428",
+        "districtName": "长武县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610429",
+        "districtName": "旬邑县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610430",
+        "districtName": "淳化县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610431",
+        "districtName": "武功县",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610481",
+        "districtName": "兴平市",
+        "cityName": "咸阳市",
+        "cityCode": "610400",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610500": [
+      {
+        "qydm": "610500",
+        "districtName": "渭南市本级",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610502",
+        "districtName": "临渭区",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610503",
+        "districtName": "华州区",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610522",
+        "districtName": "潼关县",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610523",
+        "districtName": "大荔县",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610524",
+        "districtName": "合阳县",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610525",
+        "districtName": "澄城县",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610526",
+        "districtName": "蒲城县",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610527",
+        "districtName": "白水县",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610528",
+        "districtName": "富平县",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610582",
+        "districtName": "华阴市",
+        "cityName": "渭南市",
+        "cityCode": "610500",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610581": [
+      {
+        "qydm": "610581",
+        "districtName": "韩城市",
+        "cityName": "韩城市",
+        "cityCode": "610581",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610600": [
+      {
+        "qydm": "610602",
+        "districtName": "宝塔区",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610603",
+        "districtName": "安塞区",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610621",
+        "districtName": "延长县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610622",
+        "districtName": "延川县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610625",
+        "districtName": "志丹县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610626",
+        "districtName": "吴起县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610627",
+        "districtName": "甘泉县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610628",
+        "districtName": "富县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610629",
+        "districtName": "洛川县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610630",
+        "districtName": "宜川县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610631",
+        "districtName": "黄龙县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610632",
+        "districtName": "黄陵县",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610681",
+        "districtName": "子长市",
+        "cityName": "延安市",
+        "cityCode": "610600",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610700": [
+      {
+        "qydm": "610702",
+        "districtName": "汉台区",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610721",
+        "districtName": "南郑区",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610722",
+        "districtName": "城固县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610723",
+        "districtName": "洋县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610724",
+        "districtName": "西乡县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610725",
+        "districtName": "勉县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610726",
+        "districtName": "宁强县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610727",
+        "districtName": "略阳县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610728",
+        "districtName": "镇巴县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610729",
+        "districtName": "留坝县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610730",
+        "districtName": "佛坪县",
+        "cityName": "汉中市",
+        "cityCode": "610700",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610800": [
+      {
+        "qydm": "610802",
+        "districtName": "榆阳区",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610803",
+        "districtName": "横山区",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610822",
+        "districtName": "府谷县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610824",
+        "districtName": "靖边县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610825",
+        "districtName": "定边县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610826",
+        "districtName": "绥德县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610827",
+        "districtName": "米脂县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610828",
+        "districtName": "佳县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610829",
+        "districtName": "吴堡县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610830",
+        "districtName": "清涧县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610831",
+        "districtName": "子洲县",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610881",
+        "districtName": "神木市",
+        "cityName": "榆林市",
+        "cityCode": "610800",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "610900": [
+      {
+        "qydm": "610902",
+        "districtName": "汉滨区",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610921",
+        "districtName": "汉阴县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610922",
+        "districtName": "石泉县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610923",
+        "districtName": "宁陕县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610924",
+        "districtName": "紫阳县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610925",
+        "districtName": "岚皋县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610926",
+        "districtName": "平利县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610927",
+        "districtName": "镇坪县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610928",
+        "districtName": "旬阳县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "610929",
+        "districtName": "白河县",
+        "cityName": "安康市",
+        "cityCode": "610900",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "611000": [
+      {
+        "qydm": "611002",
+        "districtName": "商州区",
+        "cityName": "商洛市",
+        "cityCode": "611000",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 1,
+        "kzsl": 0,
+        "cxsl": 49
+      },
+      {
+        "qydm": "611021",
+        "districtName": "洛南县",
+        "cityName": "商洛市",
+        "cityCode": "611000",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "611022",
+        "districtName": "丹凤县",
+        "cityName": "商洛市",
+        "cityCode": "611000",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "611023",
+        "districtName": "商南县",
+        "cityName": "商洛市",
+        "cityCode": "611000",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "611024",
+        "districtName": "山阳县",
+        "cityName": "商洛市",
+        "cityCode": "611000",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "611025",
+        "districtName": "镇安县",
+        "cityName": "商洛市",
+        "cityCode": "611000",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      },
+      {
+        "qydm": "611026",
+        "districtName": "柞水县",
+        "cityName": "商洛市",
+        "cityCode": "611000",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ],
+    "617099": [
+      {
+        "qydm": "617099",
+        "districtName": "西咸新区",
+        "cityName": "西咸新区",
+        "cityCode": "617099",
+        "databaseId": null,
+        "sendDatabaseId": null,
+        "sfjr": 0,
+        "kzsl": 0,
+        "cxsl": 0
+      }
+    ]
+  },
+  "status": "OK",
+  "tokenInvalid": false,
+  "token": null
+}
