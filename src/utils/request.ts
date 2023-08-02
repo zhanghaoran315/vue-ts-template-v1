@@ -3,6 +3,7 @@ import type { AxiosInstance, AxiosRequestConfig } from 'axios'
 import { CACHE_TOKEN } from '@/global/constants';
 import { localCache } from '@/utils/cache';
 import CONFIG from '@/global'
+import { requestHandle, decryptData } from './ctypto-tools'
 
 const requestNoToken = [`${CONFIG.login}login`, `${CONFIG.login}tokenCheck`]
 
@@ -38,6 +39,9 @@ class HrRequest {
 
     this.instance.interceptors.response.use(
       (response) => {
+        if (requestHandle.includes(response.config.url as string)) {
+          return decryptData(response.data)
+        }
         return response.data
       },
       (error) => {
