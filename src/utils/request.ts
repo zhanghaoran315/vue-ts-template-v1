@@ -4,8 +4,11 @@ import { CACHE_TOKEN } from '@/global/constants';
 import { localCache } from '@/utils/cache';
 import CONFIG from '@/global'
 import { API } from '@/api/login'
+import { requestHandle, decryptData } from './ctypto-tools'
 
 const requestNoToken = [API.getCode, API.login, API.tokenCheck]
+
+
 
 class HrRequest {
   private instance: AxiosInstance
