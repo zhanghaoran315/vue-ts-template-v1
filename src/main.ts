@@ -2,7 +2,7 @@ import './assets/css/index.less'
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
-import '@/utils/ctypto-tools'
+import '@/utils/request'
 
 
 const app = createApp(App)

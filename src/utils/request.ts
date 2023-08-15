@@ -3,9 +3,9 @@ import type { AxiosInstance, AxiosRequestConfig } from 'axios'
 import { CACHE_TOKEN } from '@/global/constants';
 import { localCache } from '@/utils/cache';
 import CONFIG from '@/global'
-import { requestHandle, decryptData } from './ctypto-tools'
+import { API } from '@/api/login'
 
-const requestNoToken = [`${CONFIG.login}login`, `${CONFIG.login}tokenCheck`]
+const requestNoToken = [API.getCode, API.login, API.tokenCheck]
 
 class HrRequest {
   private instance: AxiosInstance

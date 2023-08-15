@@ -5,6 +5,8 @@ import { crypto } from '@/utils/crypto'
 import { Lock, User } from '@element-plus/icons-vue'
 import type { FormInstance, FormRules } from 'element-plus'
 import { useUserStore } from '@/stores/user'
+import { getCode } from '@/api/login'
+import { generateUuid, updatePictureId, getPictureId } from './config'
 
 const userStore = useUserStore()
 
@@ -12,6 +14,9 @@ const systemNameCn = import.meta.env.VITE_APP_NAME_CN
 const systemNameEn = import.meta.env.VITE_APP_NAME_EN
 
 const loginFormRef = ref<FormInstance>()
+
+const verifyCode = ref('')
+const verifyImg = ref('')
 
 const CaptchaRef = ref<InstanceType<typeof Captcha>>()
 
@@ -31,6 +36,8 @@ const handleLogin = () => {
         const params = {
           username: loginData.username,
           password: crypto.encryptByDES(loginData.password),
+          code: loginData.code,
+          pictureId: getPictureId(),
           appKey: 'gm-uums'
         }
         await userStore.loginAction(params)
@@ -48,11 +55,32 @@ const handleLogin = () => {
 const validateVerifyCode = (rule: any, value: any, callback: any) => {
   if (!value) return callback(new Error('请输入验证码'))
 
-  if (CaptchaRef.value?.verify(value)) {
-    callback()
+  const reg = /^\d{4}$/
+  if (reg.test(value)) {
+    if (verifyCode.value === value) {
+      callback()
+    } else {
+      return callback(new Error('请输入正确的验证码'))
+    }
   } else {
-    return callback(new Error('请输入正确的验证码'))
+    return callback(new Error('请输入4位数字'))
   }
+}
+
+onMounted(() => {
+  getCaptcha()
+})
+
+const getCaptcha = () => {
+  getCode({
+    pictureId: updatePictureId()
+  }).then((res) => {
+    if (res.success) {
+      const { data, message } = res
+      verifyCode.value = message
+      verifyImg.value = `data:image/png;base64,${data}`
+    }
+  })
 }
 
 const rules = reactive<FormRules<typeof loginData>>({
@@ -106,7 +134,7 @@ const rules = reactive<FormRules<typeof loginData>>({
               @keyup.enter="handleLogin"
             >
               <template #append>
-                <Captcha ref="CaptchaRef" />
+                <img class="verifyCode" @click="getCaptcha" :src="verifyImg" alt="" />
               </template>
             </el-input>
           </el-form-item>
@@ -161,6 +189,11 @@ const rules = reactive<FormRules<typeof loginData>>({
         height: 40px;
         padding: 0;
         cursor: pointer;
+      }
+
+      .verifyCode {
+        width: 112px;
+        height: 40px;
       }
 
       .submit-box {

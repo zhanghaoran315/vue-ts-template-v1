@@ -90,7 +90,7 @@ const getGeoMap = async (qxdm: string) => {
     }
 
     eachGeo(geo.children)
-    console.log(geoMap)
+    // console.log(geoMap)
   }
 
   return geoMap[qxdm]
@@ -169,7 +169,7 @@ const updateMap = async (qxdm: string) => {
 
   featureCollection = getFeatureCollection(echarts.getMap(geoName.value).geoJSON)
 
-  console.log('featureCollection: ', featureCollection)
+  // console.log('featureCollection: ', featureCollection)
 }
 
 // 市级的数据处理

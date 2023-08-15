@@ -3,6 +3,8 @@ import qs from 'qs'
 import hrRequest from '@/utils/request'
 
 export const API = {
+  // 获取验证码
+  getCode: CONFIG.login + 'getCode', 
   // 登录
   login: CONFIG.login + 'login',
   // 检查token
@@ -23,6 +25,11 @@ interface IAccount {
   username: string
   password: string
   appKey: string
+}
+
+// 获取验证码
+export const getCode = (params: any) => {
+  return hrRequest.get(API.getCode, { params })
 }
 
 export const userLoginByAccount = (data: IAccount) => {
