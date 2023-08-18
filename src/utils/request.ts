@@ -1,14 +1,12 @@
 import axios from 'axios'
 import type { AxiosInstance, AxiosRequestConfig } from 'axios'
-import { CACHE_TOKEN } from '@/global/constants';
-import { localCache } from '@/utils/cache';
+import { CACHE_TOKEN } from '@/global/constants'
+import { localCache } from '@/utils/cache'
 import CONFIG from '@/global'
 import { API } from '@/api/login'
 import { requestHandle, decryptData } from './ctypto-tools'
 
 const requestNoToken = [API.getCode, API.login, API.tokenCheck]
-
-
 
 class HrRequest {
   private instance: AxiosInstance
@@ -32,7 +30,7 @@ class HrRequest {
             this.controller.abort('token获取失败！')
           }
         }
-        
+
         return config
       },
       (error) => {
@@ -42,9 +40,14 @@ class HrRequest {
 
     this.instance.interceptors.response.use(
       (response) => {
+        if (response.data.message === '登录已过期，请重新登录！') {
+          localCache.clear()
+          window.location.reload()
+        }
         if (requestHandle.includes(response.config.url as string)) {
           return decryptData(response.data)
         }
+
         return response.data
       },
       (error) => {
@@ -70,6 +73,5 @@ class HrRequest {
     return this.instance.delete(url, config)
   }
 }
-
 
 export default new HrRequest()

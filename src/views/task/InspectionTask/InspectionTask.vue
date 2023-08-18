@@ -18,7 +18,10 @@ onMounted(() => {
 })
 
 function getPageList() {
-  const params = {}
+  const params = {
+    rwlx: 1, // 1 - 查询任务 2 - 控制任务
+    rwzt: 2 // 2 - 完成办理
+  }
   cxrwList(params).then((res) => {
     if (res.success) {
       tableList.value = res.data.records ?? []

@@ -7,7 +7,13 @@ onMounted(() => {
 <template>
   <div class="system-log">
     <h2>system-log</h2>
+    <img src="/image/avater2.jpg" alt="">
   </div>
 </template>
 
-<style scoped lang="scss"></style>
+<style scoped lang="scss">
+img {
+  height: 400px;
+  width: 400px;
+}
+</style>

@@ -51,6 +51,7 @@ export const useSystemStore = defineStore('system', () => {
   }
 
   return {
-    systemInitAction
+    systemInitAction,
+    dic
   }
 })
